@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python cache files (if used in notebooks or analysis)
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Backup or temp files
+*.bak
+*.tmp
+*~
+
+# Audio and large binary files (if not meant to be stored on GitHub)
+*.wav
+*.aiff
+*.mp3
+*.m4a
+*.flac
+
+# Finale, Sibelius, DAW or music software temp/backup files
+*.asv
+*.bak
+*.autosave
+*.tmp
+
+# Output from analysis (if too large)
+output/
