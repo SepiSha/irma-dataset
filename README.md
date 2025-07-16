@@ -8,15 +8,18 @@ The **IRMA dataset** (Iranian Radif Music Archive) is a curated collection of sy
 > ⚠️ This repository currently includes metadata and symbolic/analytical data only. The full dataset (over 1000 files) is being uploaded incrementally.
 
 ## 📁 Folder Structure
+
+<pre>
 data/
-├── karimi/ # Mahmoud Karimi vocal radif
-├── davami/ # Abdollah Davami vocal radif
-├── mirza-abdollah/ # Instrumental radif based on Mirzā ʿAbdollāh
-├── shajarian/ # Classroom recordings analysis
-├── kazemi/ # Kazemi vocal radif materials
-├── tahrir/ # Tahrir collection (various artists)
-metadata/ # Dataset-level metadata (CSV, JSON, etc.)
-docs/ # Documentation, LICENSE, and notice files
+├── karimi/              # Mahmoud Karimi vocal radif
+├── davami/              # Abdollah Davami vocal radif
+├── mirza-abdollah/      # Instrumental radif based on Mirzā ʿAbdollāh
+├── shajarian/           # Classroom recordings and aligned symbolic data
+├── kazemi/              # Kazemi vocal radif materials
+├── tahrir/              # Tahrir collection (various artists)
+metadata/                # Dataset-level metadata (CSV, JSON, etc.)
+docs/                    # Documentation, LICENSE, and notice files
+</pre>
 
 
 Each subfolder typically contains:
