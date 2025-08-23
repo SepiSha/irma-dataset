@@ -5,7 +5,7 @@ A symbolic and audio analysis dataset of Iranian Radif repertoires
 
 The **IRMA dataset** (Iranian Radif Music Archive) is a curated collection of symbolic and analytical representations of canonical *radif* repertoires in Iranian classical music. It includes structured data for vocal and instrumental performances, focusing on pitch, energy, MIDI, Alignment, and tahrir ornamentation in diverse interpretations of the radif tradition.
 
-> ⚠️ This repository currently includes metadata and symbolic/analytical data only. The full dataset (over 1000 files) is being uploaded incrementally.
+> ⚠️ The full dataset (over 10000 files) is being uploaded incrementally.
 
 ## 📁 Folder Structure
 
