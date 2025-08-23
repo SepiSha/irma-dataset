@@ -57,6 +57,11 @@ All author-generated content in this repository is made available under a [Creat
 Use of any third-party materials referenced in metadata or documentation must comply with their respective copyright terms.  
 See [`NOTICE.md`](NOTICE.md) for more information.
 
+## Acknowledgements
+
+The MIDI files of the Mirza Abdollah Radif included here were originally published in my  
+[radif-Midi repository](https://github.com/SepiSha/radif-Midi). We also acknowledge **Ardavan Khalij**, whose work on separating the gushes of the dastgahs in Midi files for several of the dastgahs has been instrumental. His relevant work can be found in the [IranianMusicKnowledgeBase.jl repository](https://github.com/ArdavanKhalij/IranianMusicKnowledgeBase.jl).
+
 
 ## 📌 Citation
 
