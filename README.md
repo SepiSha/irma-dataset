@@ -70,7 +70,7 @@ If you use the IRMA dataset in your research or publication, please cite the fol
 > Sepideh Shafiei and Shapour Hakam.  
 > **The IRMA Dataset: A Structured Audio–MIDI Corpus for Iranian Classical Music.**  
 > In *Proceedings of the 12th International Conference on Digital Libraries for Musicology (DLfM 2025)*, Seoul, South Korea.  
-> ACM, New York, NY, USA. https://doi.org/3748336.3748341
+> ACM, New York, NY, USA. (https://doi.org/10.1145/3748336.3748341)
 
 
 ## 🤝 Contributions and Contact
