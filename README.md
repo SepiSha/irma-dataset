@@ -72,6 +72,7 @@ If you use the IRMA dataset in your research or publication, please cite the fol
 > In *Proceedings of the 12th International Conference on Digital Libraries for Musicology (DLfM 2025)*, Seoul, South Korea.  
 > ACM, New York, NY, USA. (https://doi.org/10.1145/3748336.3748341)
 
+Arxiv: https://arxiv.org/pdf/2508.19876
 
 ## 🤝 Contributions and Contact
 
